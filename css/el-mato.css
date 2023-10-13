@@ -2,6 +2,8 @@
 	margin: 0;
 	padding: 0;
 	font-family: Arial;
+	backround:url(muertos.gif);
+	bbackground-size:cover;
 	text-decoration: none;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -10,8 +12,8 @@
 
 
 #contenedor {
-	text-align:center;
 	width: 1080px;
+	height:600px;
 	margin: 0;
 	position:relative;
 	
