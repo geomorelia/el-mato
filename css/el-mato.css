@@ -11,17 +11,9 @@
 
 #contenedor {
 	text-align:center;
-	width: 600px;
-	margin: 0 auto;
+	width: 1080px;
+	margin: 0;
 	position:relative;
 	
 }
 
-#repro {
-	width: 600px;
-	text-align:center;
-	margin: 0 auto;
-	position:absolute;
-	top:300px;
-	
-}
