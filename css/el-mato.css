@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 	font-family: Arial;
-	backround:url(muertos.gif);
+	backround:url("muertos.gif");
 	bbackground-size:cover;
 	text-decoration: none;
 	-webkit-box-sizing: border-box;
